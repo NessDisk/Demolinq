@@ -1,0 +1,14 @@
+C:\Users\Marcel\Documents\Nestor\Github\cursos\Curso-limb\demo-limb\bin\Debug\net8.0\demo-limb.exe
+C:\Users\Marcel\Documents\Nestor\Github\cursos\Curso-limb\demo-limb\bin\Debug\net8.0\demo-limb.deps.json
+C:\Users\Marcel\Documents\Nestor\Github\cursos\Curso-limb\demo-limb\bin\Debug\net8.0\demo-limb.runtimeconfig.json
+C:\Users\Marcel\Documents\Nestor\Github\cursos\Curso-limb\demo-limb\bin\Debug\net8.0\demo-limb.dll
+C:\Users\Marcel\Documents\Nestor\Github\cursos\Curso-limb\demo-limb\bin\Debug\net8.0\demo-limb.pdb
+C:\Users\Marcel\Documents\Nestor\Github\cursos\Curso-limb\demo-limb\obj\Debug\net8.0\demo-limb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcel\Documents\Nestor\Github\cursos\Curso-limb\demo-limb\obj\Debug\net8.0\demo-limb.AssemblyInfoInputs.cache
+C:\Users\Marcel\Documents\Nestor\Github\cursos\Curso-limb\demo-limb\obj\Debug\net8.0\demo-limb.AssemblyInfo.cs
+C:\Users\Marcel\Documents\Nestor\Github\cursos\Curso-limb\demo-limb\obj\Debug\net8.0\demo-limb.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\Documents\Nestor\Github\cursos\Curso-limb\demo-limb\obj\Debug\net8.0\demo-limb.dll
+C:\Users\Marcel\Documents\Nestor\Github\cursos\Curso-limb\demo-limb\obj\Debug\net8.0\refint\demo-limb.dll
+C:\Users\Marcel\Documents\Nestor\Github\cursos\Curso-limb\demo-limb\obj\Debug\net8.0\demo-limb.pdb
+C:\Users\Marcel\Documents\Nestor\Github\cursos\Curso-limb\demo-limb\obj\Debug\net8.0\demo-limb.genruntimeconfig.cache
+C:\Users\Marcel\Documents\Nestor\Github\cursos\Curso-limb\demo-limb\obj\Debug\net8.0\ref\demo-limb.dll
